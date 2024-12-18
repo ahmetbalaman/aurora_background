@@ -1,6 +1,8 @@
 name: aurora_background
 description: A beautiful and customizable aurora background effect for Flutter applications
-author: "ahmetbalaman073@gmail.com"
+homepage: https://github.com/ahmetbalaman/aurora_background
+repository: https://github.com/ahmetbalaman/aurora_background
+
 
 version: 1.0.0
 homepage:
