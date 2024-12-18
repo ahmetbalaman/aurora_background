@@ -1,3 +1,5 @@
+
+
 # Aurora Background
 
 [![pub package](https://img.shields.io/pub/v/aurora_background.svg)](https://pub.dev/packages/aurora_background)
@@ -19,13 +21,14 @@ A beautiful and highly customizable aurora background effect for Flutter applica
 ## 📱 Preview
 
 ### Default Aurora Effect
-[Buraya varsayılan aurora efektinin GIF'ini ekleyin - ideal boyut: 300x600]
+
+ ![defaultaero-ezgif com-optimize](https://github.com/user-attachments/assets/43520f1b-efb1-4865-8a5c-9b76a43ef5df)
+
+
 
 ### Customized Aurora
-[Buraya özelleştirilmiş aurora efektinin GIF'ini ekleyin - ideal boyut: 300x600]
+![customizedaerop-ezgif com-optimize](https://github.com/user-attachments/assets/89e7a85b-584a-4d92-bce0-6bd814280e23)
 
-### Interactive Demo
-[Buraya interaktif bir demo GIF'i ekleyin - ideal boyut: 300x600]
 
 ## 🚀 Getting Started
 
@@ -99,46 +102,6 @@ AuroraBackground(
 | `starColor` | `Color` | Colors.white | Color of stars |
 | `seed` | `int` | 42 | Random seed for star positions |
 
-## 🎨 Examples
-
-### Calm Aurora
-[Buraya sakin aurora efektinin GIF'ini ekleyin - ideal boyut: 300x600]
-
-```dart
-AuroraBackground(
-  numberOfWaves: 3,
-  waveHeightMultiplier: 0.1,
-  waveBlur: 50,
-  child: YourWidget(),
-)
-```
-
-### Dynamic Aurora
-[Buraya dinamik aurora efektinin GIF'ini ekleyin - ideal boyut: 300x600]
-
-```dart
-AuroraBackground(
-  numberOfWaves: 5,
-  waveHeightMultiplier: 0.25,
-  waveDurations: const [4, 8, 12, 16, 20],
-  child: YourWidget(),
-)
-```
-
-### Custom Colors
-[Buraya özel renkli aurora efektinin GIF'ini ekleyin - ideal boyut: 300x600]
-
-```dart
-AuroraBackground(
-  backgroundColors: const [Colors.black, Colors.deepPurple],
-  waveColors: const [
-    [Colors.pink, Colors.pinkAccent, Colors.pink],
-    [Colors.purple, Colors.purpleAccent, Colors.purple],
-    [Colors.blue, Colors.blueAccent, Colors.blue],
-  ],
-  child: YourWidget(),
-)
-```
 
 ## 🤝 Contributing
 
@@ -158,9 +121,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
 
-Project Link: [https://github.com/yourusername/aurora_background](https://github.com/yourusername/aurora_background)
+<a href="https://www.linkedin.com/in/ahmetbalaman/" target="blank"><img align="center" src="https://github.com/ahmetbalaman/ahmetbalaman/blob/d7890619ee78c566192c8189a3ae35c4459f69d2/assets/linkedln_logo.png" alt="linkedin" height="30" width="30" /></a>
+<a href="https://www.instagram.com/ahmet.balamann/" target="blank"><img align="center" src="https://github.com/ahmetbalaman/ahmetbalaman/blob/d7890619ee78c566192c8189a3ae35c4459f69d2/assets/instagram_logo.png" alt="insta" height="30" width="30" /></a>
+
 
 ## 🙏 Acknowledgments
 
